@@ -6,5 +6,6 @@ def main():
     print('El costo de la publicación es:', costo)
 
 
+
 if __name__ == '__main__':
     main()

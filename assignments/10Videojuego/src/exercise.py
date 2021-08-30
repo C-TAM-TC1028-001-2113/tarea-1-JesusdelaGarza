@@ -6,5 +6,6 @@ def main():
     print('El total de la compra es:', total)
 
 
+
 if __name__ == '__main__':
     main()

@@ -6,6 +6,7 @@ def main():
 
     costo = (mensajes * 0.80) + (megas * 0.80) + (minutos * 0.80)
 
+
     print('El costo mensual es:', costo)
 
 
